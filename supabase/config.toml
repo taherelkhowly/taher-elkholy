@@ -1,0 +1,2 @@
+[functions.read-id-card]
+verify_jwt = true
